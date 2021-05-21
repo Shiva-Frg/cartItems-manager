@@ -1,0 +1,18 @@
+.btn {
+    background: transparent;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    font: inherit;
+    color: #ffffff;
+    margin: 10px;
+    padding: 10px;
+}
+
+.success {
+    background: #388e3c;
+}
+
+.danger {
+    background: #de2f2f;
+}
